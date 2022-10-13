@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mehdibigdely
-- 👀 I’m interested in coding, helping people achive their goals, and fishing.
-- 🌱 I’m currently learning different programming languages such as Python, Java, C + + etc. and also leadership and management skills.  
+- 👀 I’m interested in coding, helping people achive their goals, and also love fishing.
+- 🌱 I’m currently learning different programming languages such as Python, Java, C + +, VBA, JavaScript, etc. and have been integrating them to get the best results.  
 - 💞️ I’m looking to collaborate on coding 
 - 📫 How to reach me email
 
